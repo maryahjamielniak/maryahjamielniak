@@ -2,7 +2,7 @@
 
 Meu nome é Maryah Jamielniak
 
-- Estou etudando na Alura
+- Estou etudando na [Alura](http:www.alura.com.br)
 - Estou me desenvolvedo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
